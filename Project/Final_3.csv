@@ -1,0 +1,300 @@
+,Id,Brands,Models,Mileage,Body_Type,Seating,Prices,Engine_CC,Transmission,Fuel_Type,No_Of_Cylinders,price_in_crores
+0,0,Citroen, C3,19.3,Hatchback,5, 6.2 Lakh,1198,Manual,Petrol,3,620000.0
+1,1,Citroen, eC3,0.0,SUV,5, 11.5 Lakh,0,Automatic,Electric,0,1150000.0
+2,2,Citroen, C5 Aircross,10.3,SUV,5, 36.9 Lakh,1997,Automatic,Diesel,4,3690000.0
+3,3,Citroen, C3 Facelift,0.0,Hatchback,5, 6.2 Lakh,1198,Manual,Petrol,0,620000.0
+4,4,Citroen, Basalt,17.5,Coupe,5, 12.0 Lakh,1998,Manual,Petrol,0,1200000.0
+5,5,Rolls-Royce, Wraith,10.2,Coupe,4, 6.22 Crore,6592,Automatic,Petrol,0,62200000.0
+6,6,Rolls-Royce, Ghost,6.3,Sedan,5, 6.95 Crore,6750,Automatic,Petrol,12,69500000.0
+7,7,Rolls-Royce, Cullinan,9.5,SUV,5, 6.95 Crore,6750,Automatic,Petrol,12,69500000.0
+8,8,Rolls-Royce, Dawn,7.0,Convertible,4, 7.06 Crore,6598,Automatic,Petrol,12,70600000.0
+9,9,Rolls-Royce, Phantom,9.8,Sedan,5, 8.99 Crore,6749,Automatic,Petrol,0,89900000.0
+10,10,Rolls-Royce, New Ghost,0.0,Sedan,5, 7.00 Crore,6750,Automatic,Petrol,0,70000000.0
+11,11,Bentley, Bentayga,7.6,SUV,4, 5.00 Crore,3956,Automatic,Petrol,0,50000000.0
+12,12,Bentley, Continental,12.9,Coupe,4, 5.23 Crore,3996,Automatic,Petrol,8,52300000.00000001
+13,13,Bentley, Flying Spur,10.2,Sedan,4, 5.50 Crore,3993,Automatic,Petrol,8,55000000.0
+14,14,Maruti Suzuki, Alto,22.1,Hatchback,5, 3.5 Lakh,796,Manual,Petrol,3,350000.0
+15,15,Maruti Suzuki, Alto K10,24.4,Hatchback,5, 4.0 Lakh,998,Manual,Petrol,3,400000.0
+16,16,Maruti Suzuki, Alto Tour,22.1,Hatchback,5, 4.2 Lakh,796,Manual,Petrol,3,420000.0
+17,17,Maruti Suzuki, S-Presso,24.1,Hatchback,5, 4.3 Lakh,998,Manual,Petrol,3,430000.0
+18,18,Maruti Suzuki, Eeco,19.7,Minivan,5, 5.3 Lakh,1197,Manual,Petrol,4,530000.0
+19,19,Maruti Suzuki, Celerio,25.0,Hatchback,5, 5.4 Lakh,998,Manual,Petrol,3,540000.0
+20,20,Maruti Suzuki, Wagon R tour,25.4,Hatchback,5, 5.5 Lakh,998,Manual,Petrol,3,550000.0
+21,21,Maruti Suzuki, Wagon R,23.6,Hatchback,5, 5.5 Lakh,1197,Manual,Petrol,3,550000.0
+22,22,Maruti Suzuki, Ignis,20.9,Hatchback,5, 5.8 Lakh,1197,Manual,Petrol,4,580000.0
+23,23,Maruti Suzuki, Swift,22.4,Hatchback,5, 6.0 Lakh,1197,Manual,Petrol,4,600000.0
+24,24,Maruti Suzuki, Dzire Tour,23.1,Sedan,5, 6.5 Lakh,1197,Manual,Petrol,4,650000.0
+25,25,Maruti Suzuki, Dzire,22.4,Sedan,5, 6.6 Lakh,1197,Manual,Petrol,0,660000.0
+26,26,Maruti Suzuki, Baleno,22.4,Hatchback,5, 6.7 Lakh,1197,Manual,Petrol,4,670000.0
+27,27,Maruti Suzuki, FRONX,20.0,SUV,5, 7.5 Lakh,1197,Manual,Petrol,4,750000.0
+28,28,Maruti Suzuki, Brezza,17.4,SUV,5, 8.3 Lakh,1462,Manual,Petrol,4,830000.0000000001
+29,29,Maruti Suzuki, Ertiga,20.3,MUV,7, 8.7 Lakh,1462,Manual,Petrol,4,869999.9999999999
+30,30,Maruti Suzuki, Ciaz,20.0,Sedan,5, 9.4 Lakh,1462,Manual,Petrol,4,940000.0
+31,31,Maruti Suzuki, Ertiga Tour,18.0,MUV,7, 9.8 Lakh,1462,Manual,Petrol,0,980000.0
+32,32,Maruti Suzuki, Grand Vitara,19.4,SUV,5, 10.8 Lakh,1462,Manual,Petrol,0,1080000.0
+33,33,Maruti Suzuki, XL6,20.3,MUV,6, 11.6 Lakh,1462,Manual,Petrol,4,1160000.0
+34,34,Maruti Suzuki, Jimny,16.4,SUV,4, 12.7 Lakh,1462,Manual,Petrol,0,1270000.0
+35,35,Maruti Suzuki, Invicto,23.2,MUV,7, 25.2 Lakh,1987,Automatic,Petrol,0,2520000.0
+36,36,Maruti Suzuki, New Swift,0.0,Sedan,5, 6.5 Lakh,1197,Manual,Petrol,0,650000.0
+37,37,Maruti Suzuki, New Dzire,0.0,Hatchback,5, 6.5 Lakh,1197,Manual,Petrol,0,650000.0
+38,38,Maruti Suzuki, Wagon R Flex Fuel,0.0,Hatchback,5, 8.5 Lakh,998,Automatic,Petrol,0,850000.0
+39,39,Maruti Suzuki, eVX,0.0,SUV,5, 22.0 Lakh,0,Manual,Electric,0,2200000.0
+40,40,BMW, X1,16.4,SUV,5, 45.9 Lakh,1499,Automatic,Petrol,3,4590000.0
+41,41,BMW, 3 Series Gran Limousine,15.4,Coupe,5, 60.6 Lakh,1998,Automatic,Petrol,4,6060000.0
+42,42,BMW, X3,10.5,SUV,5, 68.5 Lakh,1995,Automatic,Diesel,4,6850000.0
+43,43,BMW, 5 Series,17.4,Sedan,5, 68.9 Lakh,1995,Automatic,Diesel,0,6890000.000000001
+44,44,BMW, 3 Series,13.0,Sedan,5, 71.5 Lakh,2998,Automatic,Petrol,6,7150000.0
+45,45,BMW, 6 Series,13.3,Sedan,5, 72.5 Lakh,1998,Automatic,Petrol,0,7250000.0
+46,46,BMW, i4,0.0,Sedan,5, 73.9 Lakh,0,Automatic,Electric,0,7390000.000000001
+47,47,BMW, Z4,11.3,Convertible,2, 89.3 Lakh,2998,Automatic,Petrol,0,8930000.0
+48,48,BMW, X5,12.0,SUV,5, 95.2 Lakh,2998,Automatic,Petrol,0,9520000.0
+49,49,BMW, M2,10.1,Convertible,4, 98.0 Lakh,2993,Automatic,Petrol,6,9800000.0
+50,50,BMW, i5,0.0,Sedan,5, 1.20 Crore,0,Automatic,Electric,0,12000000.0
+51,51,BMW, X7,11.3,SUV,6, 1.24 Crore,2998,Automatic,Petrol,6,12400000.0
+52,52,BMW, M4 Competition,11.9,Coupe,5, 1.48 Crore,2993,Automatic,Petrol,6,14800000.0
+53,53,BMW, 7 Series,12.6,Sedan,5, 1.81 Crore,2998,Automatic,Petrol,6,18100000.0
+54,54,BMW, i7,0.0,Sedan,5, 1.95 Crore,0,Automatic,Electric,0,19500000.0
+55,55,BMW, M8 Coupe Competition,8.7,Coupe,5, 2.44 Crore,4395,Automatic,Petrol,8,24400000.0
+56,56,BMW, X8,0.0,SUV,5, 1.00 Crore,4400,Automatic,Petrol,0,10000000.0
+57,57,BMW, X6,0.0,SUV,5, 1.39 Crore,2998,Automatic,Petrol,0,13899999.999999998
+58,58,BYD, E6,0.0,MUV,5, 29.1 Lakh,0,Automatic,Electric,0,2910000.0
+59,59,BYD, Atto 3,0.0,SUV,5, 34.0 Lakh,0,Automatic,Electric,0,3400000.0
+60,60,BYD, Seal,0.0,Sedan,5, 41.0 Lakh,0,Automatic,Electric,0,4100000.0
+61,61,BYD, Atto 3 Facelift,0.0,SUV,5, 45.0 Lakh,0,Automatic,Electric,0,4500000.0
+62,62,Aston Martin, DBX,10.1,SUV,5, 3.82 Crore,3982,Automatic,Diesel,0,38200000.0
+63,63,Aston Martin, Vantage,0.0,Coupe,2, 3.99 Crore,3998,Automatic,Petrol,0,39900000.0
+64,64,Aston Martin, Vantage 2019-2023,8.6,Coupe,2, 3.00 Crore,3998,Manual,Petrol,8,30000000.0
+65,65,Aston Martin, DB11,8.9,Convertible,2, 3.80 Crore,3998,Automatic,Petrol,8,38000000.0
+66,66,Ferrari, Roma,8.9,Coupe,2, 3.76 Crore,3855,Automatic,Petrol,0,37600000.0
+67,67,Ferrari, 296 GTB,28.0,Coupe,2, 5.40 Crore,2992,Automatic,Petrol,0,54000000.0
+68,68,Ferrari, 812,6.0,Convertible,2, 5.75 Crore,6496,Automatic,Petrol,0,57500000.0
+69,69,Ferrari, SF90 Stradale,18.0,Coupe,2, 7.50 Crore,3990,Automatic,Petrol,0,75000000.0
+70,70,Ferrari, Purosangue,0.0,SUV,4, 5.00 Crore,6494,Automatic,Petrol,0,50000000.0
+71,71,Force, Gurkha,12.4,SUV,4, 15.1 Lakh,2596,Manual,Diesel,4,1510000.0
+72,72,Force, Gurkha 3-Door,0.0,SUV,4, 15.0 Lakh,2596,Manual,Diesel,0,1500000.0
+73,73,Force, Gurkha 5-Door,0.0,SUV,7, 16.0 Lakh,2596,Manual,Diesel,0,1600000.0
+74,74,MG, Comet EV,0.0,Hatchback,4, 7.0 Lakh,0,Automatic,Electric,0,700000.0
+75,75,MG, Astor,-1.200000000000001,SUV,5, 10.8 Lakh,1498,Manual,Petrol,4,1080000.0
+76,76,MG, Hector,-3.299999999999999,SUV,5, 14.0 Lakh,1451,Manual,Petrol,4,1400000.0
+77,77,MG, Hector Plus,-3.299999999999999,SUV,7, 18.0 Lakh,1451,Manual,Petrol,4,1800000.0
+78,78,MG, ZS EV,0.0,SUV,5, 19.0 Lakh,0,Automatic,Electric,0,1900000.0
+79,79,MG, Gloster,-1.3000000000000007,SUV,7, 37.5 Lakh,1996,Automatic,Diesel,4,3750000.0
+80,80,MG, 4 EV,0.0,Hatchback,5, 30.0 Lakh,0,Automatic,Electric,0,3000000.0
+81,81,MG, Marvel X,0.0,SUV,5, 30.0 Lakh,0,Automatic,Electric,0,3000000.0
+82,82,MG, Gloster Facelift,0.0,SUV,7, 40.0 Lakh,1996,Manual,Diesel,0,4000000.0
+83,83,Honda, Amaze,18.3,Sedan,5, 7.2 Lakh,1199,Manual,Petrol,4,720000.0
+84,84,Honda, Elevate,15.3,SUV,5, 11.6 Lakh,1498,Manual,Petrol,0,1160000.0
+85,85,Honda, City,17.8,Sedan,5, 11.7 Lakh,1498,Manual,Petrol,0,1170000.0
+86,86,Honda, City Hybrid,27.1,Sedan,5, 18.9 Lakh,1498,Automatic,Petrol,0,1890000.0
+87,87,Honda, WR-V,0.0,SUV,5, 9.0 Lakh,1199,Manual,Petrol,0,900000.0
+88,88,Jaguar, XF,8.6,Sedan,5, 47.7 Lakh,2179,Automatic,Diesel,0,4770000.0
+89,89,Jaguar, F-Type,9.4,Coupe,2, 100.0 Lakh,1997,Automatic,Petrol,0,10000000.0
+90,90,Jaguar, I-Pace,0.0,SUV,5, 1.20 Crore,0,Automatic,Electric,0,12000000.0
+91,91,Jaguar, E-Pace,8.58,SUV,5, 71.0 Lakh,1998,Automatic,Diesel,0,7100000.0
+92,92,Isuzu, D-Max,10.3,Pickup,2, 10.5 Lakh,2499,Manual,Diesel,4,1050000.0
+93,93,Isuzu, S-CAB,14.4,Pickup,5, 12.5 Lakh,2499,Manual,Diesel,4,1250000.0
+94,94,Isuzu, Hi-Lander,12.4,Pickup,5, 19.5 Lakh,1898,Manual,Diesel,4,1950000.0
+95,95,Isuzu, V-Cross,12.4,Pickup,5, 22.1 Lakh,1898,Automatic,Diesel,4,2210000.0
+96,96,Isuzu, MU-X,12.3,SUV,7, 35.0 Lakh,1898,Automatic,Diesel,4,3500000.0
+97,97,Lexus, ES,22.6,Sedan,5, 61.6 Lakh,2487,Automatic,Petrol,4,6160000.0
+98,98,Lexus, NX,0.0,SUV,5, 67.3 Lakh,2487,Automatic,Petrol,4,6730000.0
+99,99,Lexus, RX,0.0,SUV,5, 95.8 Lakh,2487,Automatic,Petrol,4,9580000.0
+100,100,Lexus, LS,15.4,Sedan,4, 1.96 Crore,3456,Automatic,Petrol,0,19600000.0
+101,101,Lexus, LC 500h,12.3,Coupe,4, 2.29 Crore,3456,Automatic,Petrol,6,22900000.0
+102,102,Lexus, LX,6.9,SUV,5, 2.84 Crore,3346,Automatic,Diesel,6,28400000.0
+103,103,Lexus, UX,0.0,SUV,5, 40.0 Lakh,1998,Automatic,Petrol,0,4000000.0
+104,104,Jeep, Compass,14.9,SUV,5, 21.7 Lakh,1956,Manual,Diesel,4,2170000.0
+105,105,Jeep, Meridian,14.6,SUV,7, 33.4 Lakh,1956,Manual,Diesel,4,3340000.0
+106,106,Jeep, Wrangler,10.6,SUV,5, 67.7 Lakh,1995,Automatic,Petrol,0,6770000.0
+107,107,Jeep, Grand Cherokee,8.6,SUV,5, 80.5 Lakh,1995,Automatic,Petrol,4,8050000.0
+108,108,Jeep, Renegade,0.0,SUV,5, 10.0 Lakh,1398,Automatic,Petrol,0,1000000.0
+109,109,Jeep, Avenger,0.0,SUV,5, 50.0 Lakh,0,Automatic,Electric,0,5000000.0
+110,110,Jeep, Wrangler 2021-2023,12.1,SUV,5, 60.6 Lakh,1998,Automatic,Petrol,4,6060000.0
+111,111,Skoda, Slavia,18.1,Sedan,5, 11.5 Lakh,999,Manual,Petrol,0,1150000.0
+112,112,Skoda, Kushaq,18.1,SUV,5, 11.9 Lakh,999,Manual,Petrol,3,1190000.0
+113,113,Skoda, Superb,9.3,Sedan,5, 20.3 Lakh,2771,Automatic,Petrol,0,2030000.0
+114,114,Skoda, Kodiaq,12.8,SUV,7, 38.5 Lakh,1984,Automatic,Petrol,4,3850000.0
+115,115,Skoda, Sub Four Metre SUV,0.0,SUV,5, 8.0 Lakh,1198,Manual,Petrol,0,800000.0
+116,116,Skoda, New Kodiaq,0.0,SUV,7, 35.0 Lakh,1984,Automatic,Petrol,0,3500000.0
+117,117,Skoda, Octavia Facelift,0.0,Sedan,5, 35.0 Lakh,1998,Automatic,Petrol,0,3500000.0
+118,118,Skoda, Enyaq,0.0,Coupe,5, 50.0 Lakh,0,Automatic,Electric,0,5000000.0
+119,119,volkswagen, Virtus,18.1,Sedan,5, 11.6 Lakh,999,Manual,Petrol,3,1160000.0
+120,120,volkswagen, Taigun,17.9,SUV,5, 11.7 Lakh,999,Manual,Petrol,3,1170000.0
+121,121,volkswagen, Tiguan,12.7,SUV,5, 35.2 Lakh,1984,Automatic,Petrol,4,3520000.0000000005
+122,122,volkswagen, ID 4,0.0,SUV,5, 50.0 Lakh,0,Automatic,Electric,0,5000000.0
+123,123,Land Rover, Discovery Sport,6.9,SUV,7, 72.4 Lakh,1999,Automatic,Diesel,4,7240000.000000001
+124,124,Land Rover, Defender,9.2,SUV,5, 93.5 Lakh,1997,Automatic,Petrol,0,9350000.0
+125,125,Land Rover, Range Rover Velar,9.2,SUV,5, 94.3 Lakh,1997,Automatic,Diesel,0,9430000.0
+126,126,Land Rover, Discovery,8.7,SUV,7, 95.7 Lakh,1997,Automatic,Petrol,4,9570000.0
+127,127,Land Rover, Range Rover Sport,13.2,SUV,5, 1.64 Crore,2997,Automatic,Petrol,6,16399999.999999998
+128,128,Land Rover, Range Rover,8.7,SUV,7, 2.39 Crore,2997,Automatic,Diesel,8,23900000.0
+129,129,Land Rover, Range Rover Evoque 2018-2023,15.7,SUV,5, 72.1 Lakh,1997,Automatic,Diesel,4,7209999.999999999
+130,130,Hyundai, Grand i10 Nios,20.2,Hatchback,5, 5.9 Lakh,1197,Manual,Petrol,4,590000.0
+131,131,Hyundai, Exter,19.2,SUV,5, 6.1 Lakh,1197,Manual,Petrol,4,610000.0
+132,132,Hyundai, Aura,20.5,Sedan,5, 6.5 Lakh,1197,Manual,Petrol,4,650000.0
+133,133,Hyundai, i20,19.6,Hatchback,5, 7.0 Lakh,1197,Manual,Petrol,4,700000.0
+134,134,Hyundai, Venue,17.5,SUV,5, 7.9 Lakh,1197,Manual,Petrol,4,790000.0
+135,135,Hyundai, i20 N Line,20.0,Hatchback,5, 10.0 Lakh,998,Manual,Petrol,3,1000000.0
+136,136,Hyundai, Creta,17.4,SUV,5, 11.0 Lakh,1497,Manual,Petrol,4,1100000.0
+137,137,Hyundai, Verna,18.6,Sedan,5, 11.0 Lakh,1497,Manual,Petrol,0,1100000.0
+138,138,Hyundai, Venue N Line,18.0,SUV,5, 12.1 Lakh,998,Manual,Petrol,4,1210000.0
+139,139,Hyundai, Alcazar,14.5,SUV,7, 16.8 Lakh,1482,Manual,Petrol,4,1680000.0
+140,140,Hyundai, Creta N Line,18.0,SUV,5, 16.8 Lakh,1482,Manual,Petrol,4,1680000.0
+141,141,Hyundai, Kona Electric,0.0,SUV,5, 23.8 Lakh,0,Automatic,Electric,0,2380000.0
+142,142,Hyundai, Tucson,6.16,SUV,5, 29.0 Lakh,1999,Automatic,Petrol,4,2900000.0
+143,143,Hyundai, IONIQ 5,0.0,SUV,5, 46.0 Lakh,0,Automatic,Electric,0,4600000.0
+144,144,Hyundai, Stargazer,0.0,MUV,6, 10.0 Lakh,1499,Manual,Petrol,0,1000000.0
+145,145,Hyundai, Alcazar Facelift,0.0,SUV,7, 18.0 Lakh,1497,Manual,Diesel,0,1800000.0
+146,146,Hyundai, Kona Electric 2024,0.0,SUV,5, 25.0 Lakh,0,Automatic,Electric,0,2500000.0
+147,147,Hyundai, Palisade,0.0,SUV,7, 40.0 Lakh,3800,Automatic,Diesel,0,4000000.0
+148,148,Hyundai, New Santa Fe,13.0,SUV,7, 45.0 Lakh,2199,Manual,Diesel,0,4500000.0
+149,149,Hyundai, Ioniq 6,0.0,Sedan,5, 65.0 Lakh,0,Automatic,Electric,0,6500000.0
+150,150,Hyundai, Creta 2018-2023,14.0,SUV,5, 10.9 Lakh,1497,Manual,Petrol,4,1090000.0
+151,151,Mahindra, Bolero Maxitruck Plus,17.2,Pickup,2, 7.5 Lakh,2523,Manual,Diesel,4,750000.0
+152,152,Mahindra, XUV300,16.5,SUV,5, 8.0 Lakh,1197,Manual,Petrol,3,800000.0
+153,153,Mahindra, BOLERO PikUP ExtraStrong,14.3,Pickup,2, 8.7 Lakh,1298,Manual,Diesel,4,869999.9999999999
+154,154,Mahindra, Bolero PikUp ExtraLong,14.3,Pickup,2, 8.8 Lakh,2523,Manual,Diesel,0,880000.0000000001
+155,155,Mahindra, Bolero,16.0,SUV,7, 9.9 Lakh,1493,Manual,Diesel,0,990000.0
+156,156,Mahindra, Bolero Neo,17.3,SUV,7, 9.9 Lakh,1493,Manual,Diesel,3,990000.0
+157,157,Mahindra, Bolero Camper,13.9,Pickup,5, 10.3 Lakh,2523,Manual,Diesel,4,1030000.0
+158,158,Mahindra, Thar,15.0,SUV,4, 11.3 Lakh,1497,Manual,Diesel,4,1130000.0
+159,159,Mahindra, Bolero Neo Plus,0.0,SUV,9, 11.4 Lakh,2184,Manual,Diesel,0,1140000.0
+160,160,Mahindra, Scorpio Classic,16.5,SUV,7, 13.6 Lakh,2184,Manual,Diesel,4,1360000.0
+161,161,Mahindra, Scorpio-N,13.3,SUV,7, 13.6 Lakh,1997,Manual,Petrol,4,1360000.0
+162,162,Mahindra, XUV700,13.0,SUV,5, 14.0 Lakh,1999,Manual,Petrol,4,1400000.0
+163,163,Mahindra, Marazzo,17.3,MUV,7, 14.4 Lakh,1497,Manual,Diesel,4,1440000.0
+164,164,Mahindra, XUV400 EV,0.0,SUV,5, 15.5 Lakh,0,Automatic,Electric,0,1550000.0
+165,165,Mahindra, XUV 3XO,0.83,SUV,5, 9.0 Lakh,1197,Manual,Petrol,3,900000.0
+166,166,Mahindra, Five Door Thar,20.1,SUV,4, 20.0 Lakh,2184,Manual,Diesel,0,2000000.0
+167,167,Mahindra, BE 05,0.0,SUV,5, 24.0 Lakh,0,Automatic,Electric,0,2400000.0
+168,168,Mahindra, Global Pik Up,18.1,Pickup,5, 25.0 Lakh,2498,Manual,Diesel,0,2500000.0
+169,169,Mahindra, Thar E,0.0,SUV,4, 25.0 Lakh,0,Automatic,Electric,0,2500000.0
+170,170,Mahindra, KUV 100 NXT,11.5,Hatchback,6, 6.2 Lakh,1198,Manual,Petrol,3,620000.0
+171,171,Mahindra, E Verito,0.0,Sedan,5, 9.1 Lakh,0,Automatic,Electric,0,910000.0
+172,172,Mercedes-Benz, A-Class Limousine,17.5,Sedan,5, 45.8 Lakh,1332,Automatic,Petrol,4,4580000.0
+173,173,Mercedes-Benz, C-Class,16.9,Sedan,5, 60.0 Lakh,1496,Automatic,Petrol,4,6000000.0
+174,174,Mercedes-Benz, AMG GLA 35,13.4,SUV,5, 63.5 Lakh,1991,Automatic,Petrol,4,6350000.0
+175,175,Mercedes-Benz, GLB,9.7,SUV,7, 63.8 Lakh,1332,Automatic,Petrol,4,6380000.0
+176,176,Mercedes-Benz, GLC Coupe,12.7,SUV,5, 72.5 Lakh,1991,Automatic,Petrol,4,7250000.0
+177,177,Mercedes-Benz, E-Class,15.0,Sedan,5, 75.0 Lakh,1991,Automatic,Petrol,4,7500000.0
+178,178,Mercedes-Benz, EQB,0.0,SUV,7, 77.5 Lakh,0,Automatic,Electric,0,7750000.0
+179,179,Mercedes-Benz, GLE,9.0,SUV,5, 90.0 Lakh,1950,Automatic,Diesel,4,9000000.0
+180,180,Mercedes-Benz, Amg A 45 S,12.0,Hatchback,5, 92.5 Lakh,1991,Automatic,Petrol,6,9250000.0
+181,181,Mercedes-Benz, AMG E 53,11.7,Sedan,5, 1.06 Crore,2999,Manual,Petrol,6,10600000.0
+182,182,Mercedes-Benz, AMG E 53 Cabriolet,6.5,Convertible,4, 1.30 Crore,2998,Automatic,Petrol,6,13000000.0
+183,183,Mercedes-Benz, EQS,0.0,Sedan,5, 1.59 Crore,0,Automatic,Electric,0,15900000.0
+184,184,Mercedes-Benz, S-Class,12.8,Sedan,5, 1.71 Crore,2925,Automatic,Diesel,0,17100000.0
+185,185,Mercedes-Benz, AMG GLE 53,8.9,Coupe,5, 1.71 Crore,2999,Automatic,Petrol,8,17100000.0
+186,186,Mercedes-Benz, AMG E 63,8.6,Sedan,5, 1.77 Crore,3982,Automatic,Petrol,8,17700000.0
+187,187,Mercedes-Benz, AMG SL,12.8,Convertible,4, 2.35 Crore,3982,Automatic,Petrol,6,23500000.0
+188,188,Mercedes-Benz, G-Class,10.0,SUV,5, 2.55 Crore,2925,Automatic,Diesel,8,25500000.0
+189,189,Mercedes-Benz, Maybach S-Class,7.5,Sedan,4, 2.69 Crore,3982,Automatic,Petrol,8,26900000.0
+190,190,Mercedes-Benz, AMG GT 4 Door Coupe,12.7,Coupe,5, 3.30 Crore,3982,Automatic,Petrol,4,33000000.0
+191,191,Mercedes-Benz, New E-Class,0.0,Sedan,5, 70.0 Lakh,1950,Automatic,Diesel,0,7000000.0
+192,192,Mercedes-Benz, GLA,17.4,SUV,5, 48.5 Lakh,1332,Automatic,Petrol,4,4850000.0
+193,193,Mercedes-Benz, AMG A 35,13.3,Sedan,5, 58.0 Lakh,1991,Automatic,Petrol,6,5800000.0
+194,194,Mercedes-Benz, AMG GLC 43,0.0,SUV,5, 87.0 Lakh,2996,Automatic,Petrol,6,8700000.0
+195,195,Mercedes-Benz, EQC,9.5,SUV,5, 99.5 Lakh,0,Automatic,Electric,0,9950000.0
+196,196,Mercedes-Benz, GLS,8.5,SUV,7, 1.29 Crore,2925,Automatic,Diesel,8,12900000.0
+197,197,Mercedes-Benz, AMG GLE 63 S,8.3,SUV,5, 2.23 Crore,3982,Automatic,Petrol,6,22300000.0
+198,198,Mercedes-Benz, AMG G 63,6.1,SUV,5, 2.45 Crore,3982,Automatic,Petrol,0,24500000.0
+199,199,Maserati, Ghibli,16.9,Sedan,5, 1.15 Crore,1999,Automatic,Petrol,4,11500000.0
+200,200,Maserati, Levante,12.0,SUV,5, 1.49 Crore,2979,Automatic,Petrol,0,14900000.0
+201,201,Maserati, Quattroporte,11.8,Sedan,5, 1.71 Crore,2979,Automatic,Petrol,0,17100000.0
+202,202,Maserati, GranTurismo,10.0,Coupe,4, 2.25 Crore,4691,Automatic,Diesel,0,22500000.0
+203,203,Mclaren, GT,7.0,Coupe,5, 4.50 Crore,3994,Automatic,Petrol,8,45000000.0
+204,204,Ford, Endeavour,0.0,SUV,7, 35.0 Lakh,1998,Manual,Diesel,0,3500000.0
+205,205,Ford, Everest,0.0,SUV,7, 35.0 Lakh,1998,Manual,Diesel,0,3500000.0
+206,206,Ford, Mach-E,0.0,Coupe,5, 70.0 Lakh,0,Automatic,Electric,0,7000000.0
+207,207,Porsche, Macan,10.2,SUV,5, 88.1 Lakh,1984,Automatic,Petrol,0,8810000.0
+208,208,Porsche, Cayenne,10.8,SUV,4, 1.36 Crore,2894,Automatic,Petrol,0,13600000.000000002
+209,209,Porsche, Cayenne Coupe,10.7,Coupe,4, 1.42 Crore,2894,Automatic,Petrol,0,14200000.0
+210,210,Porsche, 718,9.0,Coupe,2, 1.48 Crore,1988,Automatic,Petrol,0,14800000.0
+211,211,Porsche, Taycan,79.2,Sedan,5, 1.61 Crore,0,Automatic,Electric,0,16100000.000000002
+212,212,Porsche, Panamera,9.0,Coupe,4, 1.68 Crore,3998,Automatic,Petrol,0,16800000.0
+213,213,Porsche, 911,9.0,Coupe,2, 1.86 Crore,2981,Automatic,Petrol,0,18600000.0
+214,214,Porsche, Panamera 2021-2023,9.7,Coupe,5, 1.58 Crore,2999,Automatic,Petrol,0,15800000.0
+215,215,Nissan, Magnite,17.4,SUV,5, 6.0 Lakh,999,Manual,Petrol,0,600000.0
+216,216,Nissan, Magnite Facelift,0.0,SUV,5, 6.0 Lakh,998,Manual,Petrol,0,600000.0
+217,217,Nissan, Juke,0.0,Hatchback,5, 10.0 Lakh,998,Manual,Petrol,0,1000000.0
+218,218,Nissan, Qashqai,0.0,SUV,5, 25.0 Lakh,998,Manual,Petrol,0,2500000.0
+219,219,Nissan, X-Trail,0.0,SUV,5, 40.0 Lakh,1995,Manual,Diesel,0,4000000.0
+220,220,Mini, 3 DOOR,17.3,Hatchback,4, 42.7 Lakh,1998,Automatic,Petrol,0,4270000.0
+221,221,Mini, Cooper Countryman,14.3,SUV,5, 48.1 Lakh,1998,Automatic,Petrol,4,4810000.0
+222,222,Mini, Cooper SE,0.0,Hatchback,4, 53.5 Lakh,0,Automatic,Electric,0,5350000.0
+223,223,Mini, Aceman,0.0,Hatchback,4, 40.0 Lakh,0,Automatic,Electric,0,4000000.0
+224,224,Mini, Cooper 2024,0.0,Hatchback,4, 42.0 Lakh,1998,Automatic,Petrol,0,4200000.0
+225,225,Vinfast, VF6,0.0,Hatchback,5, 30.0 Lakh,0,Automatic,Electric,0,3000000.0
+226,226,Audi, Q3,14.9,SUV,5, 43.8 Lakh,1984,Automatic,Petrol,4,4380000.0
+227,227,Audi, A4,17.8,Sedan,5, 43.9 Lakh,1998,Automatic,Petrol,4,4390000.0
+228,228,Audi, A6,14.1,Sedan,5, 61.6 Lakh,1984,Automatic,Petrol,0,6160000.0
+229,229,Audi, Q5,13.5,SUV,5, 62.4 Lakh,1984,Automatic,Petrol,4,6240000.0
+230,230,Audi, S5 Sportback,10.6,Coupe,5, 75.7 Lakh,2994,Automatic,Petrol,6,7570000.0
+231,231,Audi, Q7,11.2,SUV,7, 84.7 Lakh,2995,Automatic,Petrol,6,8470000.0
+232,232,Audi, e-tron,9.5,SUV,5, 1.02 Crore,0,Automatic,Electric,0,10200000.0
+233,233,Audi, Q8,9.8,SUV,5, 1.07 Crore,2995,Automatic,Petrol,0,10700000.0
+234,234,Audi, RS5,8.8,Coupe,4, 1.13 Crore,2894,Automatic,Petrol,6,11299999.999999998
+235,235,Audi, A8 L,12.0,Sedan,5, 1.34 Crore,2995,Automatic,Petrol,6,13400000.0
+236,236,Audi, e-tron GT,0.0,Coupe,5, 1.70 Crore,0,Automatic,Electric,0,17000000.0
+237,237,Audi, RS e-tron GT,0.0,Coupe,5, 1.94 Crore,0,Automatic,Electric,0,19400000.0
+238,238,Audi, RS Q8,8.0,SUV,5, 2.22 Crore,3998,Automatic,Petrol,0,22200000.000000004
+239,239,Kia, Sonet,18.3,SUV,5, 8.0 Lakh,1197,Manual,Petrol,4,800000.0
+240,240,Kia, Carens,15.7,MUV,7, 10.4 Lakh,1497,Manual,Petrol,4,1040000.0
+241,241,Kia, Seltos,17.0,SUV,5, 10.9 Lakh,1497,Manual,Petrol,4,1090000.0
+242,242,Kia, EV6,0.3,SUV,5, 61.0 Lakh,0,Automatic,Electric,0,6100000.0
+243,243,Kia, Clavis,18.0,SUV,5, 6.0 Lakh,1200,Automatic,Petrol,0,600000.0
+244,244,Kia, Sorento,0.0,SUV,7, 25.0 Lakh,3298,Manual,Petrol,0,2500000.0
+245,245,Kia, Sportage,0.0,SUV,5, 25.0 Lakh,1999,Manual,Petrol,0,2500000.0
+246,246,Kia, Tasman,0.0,Pickup,5, 30.0 Lakh,2213,Manual,Diesel,0,3000000.0
+247,247,Kia, Carnival,0.0,MUV,7, 40.0 Lakh,2199,Manual,Diesel,0,4000000.0
+248,248,Kia, EV9,0.0,SUV,7, 80.0 Lakh,0,Automatic,Electric,0,8000000.0
+249,249,Kia, Sonet 2020-2023,18.2,SUV,5, 7.8 Lakh,1197,Manual,Petrol,4,780000.0
+250,250,Tata, Tiago,19.0,Hatchback,5, 5.6 Lakh,1199,Manual,Petrol,3,560000.0
+251,251,Tata, Punch,18.8,SUV,5, 6.0 Lakh,1199,Manual,Petrol,3,600000.0
+252,252,Tata, Tigor,19.3,Sedan,5, 6.3 Lakh,1199,Manual,Petrol,3,630000.0
+253,253,Tata, Altroz,18.1,Hatchback,5, 6.6 Lakh,1199,Manual,Petrol,3,660000.0
+254,254,Tata, Tiago NRG,20.1,Hatchback,5, 6.7 Lakh,1199,Manual,Petrol,3,670000.0
+255,255,Tata, Tiago EV,0.0,Hatchback,5, 8.0 Lakh,0,Automatic,Electric,0,800000.0
+256,256,Tata, Nexon,6.9,SUV,5, 8.1 Lakh,1199,Manual,Petrol,3,810000.0
+257,257,Tata, Punch EV,0.0,SUV,5, 11.0 Lakh,0,Automatic,Electric,0,1100000.0
+258,258,Tata, Tigor EV,0.0,Sedan,5, 12.5 Lakh,0,Automatic,Electric,0,1250000.0
+259,259,Tata, Nexon EV,0.0,SUV,5, 14.5 Lakh,0,Automatic,Electric,0,1450000.0
+260,260,Tata, Harrier,17.0,SUV,5, 15.5 Lakh,1956,Manual,Diesel,4,1550000.0
+261,261,Tata, Punch Facelift,7.5,SUV,5, 6.0 Lakh,1198,Manual,Petrol,0,600000.0
+262,262,Tata, Curvv,0.0,Coupe,5, 10.5 Lakh,0,Automatic,Electric,0,1050000.0
+263,263,Tata, Altroz EV,0.0,Hatchback,5, 11.0 Lakh,0,Automatic,Electric,0,1100000.0
+264,264,Tata, Harrier EV,0.0,SUV,5, 25.0 Lakh,0,Automatic,Electric,0,2500000.0
+265,265,Tata, Sierra EV,0.0,SUV,5, 25.0 Lakh,1199,Automatic,Electric,0,2500000.0
+266,266,Tata, Safari EV,0.0,SUV,6, 25.0 Lakh,1956,Automatic,Electric,0,2500000.0
+267,267,Tata, Avinya,0.0,SUV,5, 30.0 Lakh,0,Automatic,Electric,0,3000000.0
+268,268,Tata, Nexon 2017-2023,17.1,SUV,5, 8.0 Lakh,0,Manual,Petrol,3,800000.0
+269,269,Tata, Nexon EV Prime,9.16,SUV,5, 14.5 Lakh,0,Automatic,Electric,0,1450000.0
+270,270,Tata, Harrier 2019-2023,14.6,SUV,5, 15.2 Lakh,0,Manual,Diesel,4,1520000.0
+271,271,Tata, Nexon EV Max,0.0,SUV,5, 16.5 Lakh,0,Automatic,Electric,0,1650000.0
+272,272,Toyota, Glanza,22.4,Hatchback,5, 6.9 Lakh,1197,Manual,Petrol,4,690000.0
+273,273,Toyota, Urban Cruiser Taisor,21.0,SUV,5, 7.7 Lakh,1197,Manual,Petrol,0,770000.0
+274,274,Toyota, Rumion,20.1,MUV,7, 10.4 Lakh,1462,Manual,Petrol,4,1040000.0
+275,275,Toyota, Urban Cruiser Hyryder,19.4,SUV,5, 11.1 Lakh,1462,Manual,Petrol,4,1110000.0
+276,276,Toyota, Innova Hycross,16.1,MUV,7, 18.9 Lakh,1987,Automatic,Petrol,0,1890000.0
+277,277,Toyota, Innova Crysta,12.0,MUV,7, 20.0 Lakh,2393,Manual,Diesel,0,2000000.0
+278,278,Toyota, Hilux,10.0,Pickup,5, 30.4 Lakh,2755,Manual,Diesel,4,3040000.0
+279,279,Toyota, Fortuner,8.0,SUV,7, 33.4 Lakh,2694,Manual,Petrol,0,3340000.0
+280,280,Toyota, Fortuner Legender,14.2,SUV,7, 43.7 Lakh,2755,Automatic,Diesel,0,4370000.0
+281,281,Toyota, Camry,19.1,Sedan,5, 46.2 Lakh,2487,Automatic,Petrol,4,4620000.0
+282,282,Toyota, Vellfire,19.3,Minivan,7, 1.20 Crore,2487,Automatic,Petrol,4,12000000.0
+283,283,Toyota, Land Cruiser 300,11.0,SUV,5, 2.10 Crore,3346,Automatic,Diesel,6,21000000.0
+284,284,Toyota, Belta,0.0,Sedan,5, 10.0 Lakh,1462,Manual,Petrol,0,1000000.0
+285,285,Toyota, bZ4X,0.0,SUV,5, 70.0 Lakh,0,Automatic,Electric,0,7000000.0
+286,286,Renault, KWID,21.5,Hatchback,5, 4.7 Lakh,999,Manual,Petrol,3,470000.0
+287,287,Renault, Kiger,18.2,SUV,5, 6.0 Lakh,999,Manual,Petrol,3,600000.0
+288,288,Renault, Triber,18.2,MUV,7, 6.0 Lakh,999,Manual,Petrol,3,600000.0
+289,289,Renault, Captur,0.0,SUV,5, 9.5 Lakh,1498,Manual,Petrol,0,950000.0
+290,290,Renault, Duster,0.0,SUV,5, 10.0 Lakh,1498,Manual,Petrol,0,1000000.0
+291,291,Lamborghini, Huracan Evo,7.0,Coupe,2, 3.21 Crore,5204,Automatic,Petrol,0,32100000.0
+292,292,Lamborghini, Urus,7.8,SUV,5, 4.18 Crore,3999,Automatic,Petrol,0,41800000.0
+293,293,Volvo, XC40,12.2,SUV,5, 46.4 Lakh,1969,Automatic,Petrol,4,4640000.0
+294,294,Volvo, XC40 Recharge,0.0,SUV,5, 56.9 Lakh,0,Automatic,Electric,0,5690000.0
+295,295,Volvo, XC60,11.2,SUV,5, 67.5 Lakh,1969,Automatic,Petrol,0,6750000.0
+296,296,Volvo, S90,14.7,Sedan,5, 67.9 Lakh,1969,Automatic,Petrol,4,6790000.000000001
+297,297,Volvo, XC90,17.2,SUV,7, 98.5 Lakh,1969,Automatic,Petrol,4,9850000.0
+298,298,Volvo, EX90,0.0,SUV,7, 1.50 Crore,0,Automatic,Electric,0,15000000.0
